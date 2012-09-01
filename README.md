@@ -10,7 +10,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 debug_ptr
 =========
 
-debug_ptr is a smart pointer designed to help with avoiding memory leaks.
+debug_ptr is a smart pointer designed for helping to avoid memory leaks
 
 See debug_ptr.h for documentation.
 See debug_ptr_test.cpp for some use case examples.
